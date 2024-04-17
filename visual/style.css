@@ -1,0 +1,26 @@
+html {
+    background-color: white;
+}
+
+#img {
+    margin-bottom: 3%;
+    text-align: center;
+    img {
+        width: 30%;
+        border-radius: 50%;
+        border: 2px solid #555;
+    }
+}
+
+#form {
+    background-color: rgb(188, 188, 188);
+    text-align: center;
+    input {
+        width: 75%;
+    }
+    border-radius: 5px; 
+}
+
+#entrar {
+    width: 100%;
+}
